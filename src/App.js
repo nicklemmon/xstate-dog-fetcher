@@ -83,7 +83,7 @@ function App() {
         </h1>
       </header>
 
-      <main className="container mx-auto p-4 text-center bg-gray-100 text-gray-700 h-screen w-screen flex items-center justify-center">
+      <main className="p-4 text-center bg-gray-100 text-gray-700 h-screen w-screen flex items-center justify-center">
         <div>
           <DogImgFrame>
             <DogImg state={currentState}/>
